@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderWireCodingChallenge", "BuilderWireCodingChallenge\BuilderWireCodingChallenge.csproj", "{4E8CDC0D-C2F1-47EF-88E8-6B96473E61CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderWireCodingChallengeTests", "BuilderWireCodingChallengeTests\BuilderWireCodingChallengeTests.csproj", "{73EDC40D-2937-4F03-A6BA-C7A886131413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8CDC0D-C2F1-47EF-88E8-6B96473E61CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8CDC0D-C2F1-47EF-88E8-6B96473E61CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8CDC0D-C2F1-47EF-88E8-6B96473E61CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8CDC0D-C2F1-47EF-88E8-6B96473E61CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EDC40D-2937-4F03-A6BA-C7A886131413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EDC40D-2937-4F03-A6BA-C7A886131413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EDC40D-2937-4F03-A6BA-C7A886131413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EDC40D-2937-4F03-A6BA-C7A886131413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B1D29A-958B-433E-AC43-E2A1A5D359AF}
+	EndGlobalSection
+EndGlobal
